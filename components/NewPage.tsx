@@ -70,14 +70,14 @@ const NewPage = () => {
       <div className="absolute bottom-0 right-0 z-[10]">
         <Image
           alt="horse"
-          src={"/horse.png"}
+          src={"./horse.png"}
           width={300}
           height={300}
           className="absolute right-27 top-23 w-50 md:right-35 md:top-30 md:w-60 lg:w-80 lg:right-50 lg:top-40"
         />
         <Image
           alt="cliff"
-          src={"/cliff.webp"}
+          src={"./cliff.webp"}
           width={485}
           height={485}
           className=" w-full h-120 md:h-150 lg:h-200"
@@ -85,7 +85,7 @@ const NewPage = () => {
       </div>
       <div className="absolute bottom-0 z-[5] w-full h-full">
         <Image
-          src="/trees.webp"
+          src="./trees.webp"
           height={2000}
           width={2000}
           alt={"tress"}
@@ -93,7 +93,7 @@ const NewPage = () => {
         />
       </div>
       <Image
-        src={"/stars.png"}
+        src={"./stars.png"}
         alt="stars"
         width={300}
         height={300}
