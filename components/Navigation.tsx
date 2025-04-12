@@ -2,7 +2,7 @@
 import { NavLinks } from '@/constants'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation';
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 
 const Navigation = () => {
   
