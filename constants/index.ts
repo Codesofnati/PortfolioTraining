@@ -79,15 +79,15 @@ export const SkillData = [
 export const Socials = [
   {
     name: "Discord",
-    src: "./instagram.svg",
+    src: "/instagram.svg",
   },
   {
     name: "Facebook",
-    src: "./facebook.svg",
+    src: "/facebook.svg",
   },
   {
     name: "Instagram",
-    src: "./discord.svg",
+    src: "/discord.svg",
   },
 ];
 export const Projects = [

@@ -25,22 +25,22 @@ const NewPage = () => {
           </p>{" "}
           <div className=" mt-2 gap-5 z-[20] hidden md:block ">
             <Link
-              href=""
+              href="/my-skills"
               className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
             >
-              Learn
+             Learn more
             </Link>
             <Link
               href=""
               className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
             >
-              Learn
+              My projects
             </Link>
             <Link
               href=""
               className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
             >
-              Learn
+              Contact me
             </Link>
           </div>
         </div>
@@ -51,19 +51,19 @@ const NewPage = () => {
           href=""
           className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
         >
-          Learn
+          Learn more
         </Link>
         <Link
           href=""
           className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
         >
-          Learn
+          My projects
         </Link>
         <Link
           href=""
           className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
         >
-          Learn
+          Contact me
         </Link>
       </div>
 
