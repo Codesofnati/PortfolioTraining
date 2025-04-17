@@ -26,19 +26,19 @@ const NewPage = () => {
           <div className=" mt-2 gap-5 z-[20] hidden md:block ">
             <Link
               href="/my-skills"
-              className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
+              className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
             >
              Learn more
             </Link>
             <Link
               href=""
-              className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
+              className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
             >
               My projects
             </Link>
             <Link
               href=""
-              className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
+              className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
             >
               Contact me
             </Link>
@@ -46,22 +46,22 @@ const NewPage = () => {
         </div>
       </div>
 
-      <div className="absolute flex bottom-10 right-5 z-[20] lex-row md:hidden gap-5 ">
+      <div className="absolute flex mr-10 ml-10 bottom-25  z-[20] lex-row md:hidden gap-5 ">
         <Link
           href=""
-          className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
+          className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
         >
           Learn more
         </Link>
         <Link
           href=""
-          className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
+          className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
         >
           My projects
         </Link>
         <Link
           href=""
-          className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-1"
+          className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
         >
           Contact me
         </Link>
