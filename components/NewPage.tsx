@@ -31,13 +31,13 @@ const NewPage = () => {
              Learn more
             </Link>
             <Link
-              href=""
+              href="/my-projects"
               className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
             >
               My projects
             </Link>
             <Link
-              href=""
+              href="/contact-me"
               className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
             >
               Contact me
@@ -48,19 +48,19 @@ const NewPage = () => {
 
       <div className="absolute flex mr-10 ml-10 bottom-25  z-[20] lex-row md:hidden gap-5 ">
         <Link
-          href=""
+          href="/my-skills"
           className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
         >
           Learn more
         </Link>
         <Link
-          href=""
+          href="/my-projects"
           className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
         >
           My projects
         </Link>
         <Link
-          href=""
+          href="/contact-me"
           className="text-white bg-gradient-to-r from-purple-800 to-black-500 rounded-[5px] font-semibold text-[18px] px-4 py-2"
         >
           Contact me
